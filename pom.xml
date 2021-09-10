@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://3.17.143.215:8040/levistarworld/repository/amazon-snapshot/</url>
+	      <url>http://3.17.143.215:8040/repository/amazon-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.17.143.215:8040/levistarworld/repository/amazon-release/</url>
+	      <url>http://3.17.143.215:8040/repository/amazon-release/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>

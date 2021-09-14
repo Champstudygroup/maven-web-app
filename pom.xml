@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://3.17.191.24:8040/repository/infasconut-release/</url>
+	      <url>http://18.222.26.210:8040/repository/infasconut-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.17.191.24:8040/repository/infasconut-snapshot/</url>
+	      <url>http://18.222.26.210:8040/repository/infasconut-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>

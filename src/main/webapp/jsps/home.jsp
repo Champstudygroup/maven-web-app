@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Landmark Technologies</h1>
+<h1 align="center">Landmark Technologies</h2>
 <h2 align="center"> Welcome to LEVISTAR WORLD. 
 	Landmark Technology is a an ideal online training  platform for DevOps and Cloud Engineers. 
 	We offer interview preparations and job assitance.
@@ -17,7 +17,7 @@
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/log4.png" alt="" width="100">
+		<img src="images/log4.png" alt="" width="300">
 	</span>
 	<span style="font-weight: bold;">
 		Landmark Technology, 

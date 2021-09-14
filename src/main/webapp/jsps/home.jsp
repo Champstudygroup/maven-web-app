@@ -9,11 +9,11 @@
 </head>
 </head>
 <body>
-<h1 align="center">Landmark Technologies</h2>
+<h1 align="center">Landmark Technologies</h0>
 <h2 align="center"> Welcome to LEVISTAR WORLD. 
 	Landmark Technology is a an ideal online training  platform for DevOps and Cloud Engineers. 
 	We offer interview preparations and job assitance.
-	The shout of the King is in our midst. His name is JESUS.  HE IS OUR SUCCESS ACCESS KEY</h2>
+	The shout of the King is in our midst. His name is JESUS.  HE IS OUR SUCCESS ACCESS KEY</h0>
 <hr>
 <div style="text-align: center;">
 	<span>

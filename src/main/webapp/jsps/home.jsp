@@ -24,6 +24,7 @@
 		Toronto, Ontario, Canada
 		+1 437 215 2483, 647 779 6806
 		mylandmarktech@gmail.com
+		Work smart and stay safe.
 		<br>
 		<a href="mailto:mylandmarktech@gmail.com">Mail to Landmark Technologies</a>
 	</span>

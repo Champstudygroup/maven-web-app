@@ -1,4 +1,3 @@
 FROM tomcat:8.0.20-jre8
-# Dummy text to test adding test yet last
-COPY target/maven-web-application*.war /usr/local/tomcat/webapps/maven-web-application.war
-# this is testing.
+COPY target/*.war /usr/local/tomcat/webapps/maven-web-app.war
+
